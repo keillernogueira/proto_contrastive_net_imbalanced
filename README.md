@@ -68,7 +68,7 @@ python main.py --operation Test
 
 ## Model
 
-Download the trained FCN-DenseNet121 model for the Vaihingen dataset here.
+Download the trained FCN-DenseNet121 model for the Vaihingen dataset here: https://github.com/keillernogueira/proto_contrastive_net_imbalanced/releases/download/Models/vaihingen_model.pth
 
 ## Results
 
